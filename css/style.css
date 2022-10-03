@@ -209,6 +209,7 @@ form{
     cursor: pointer;
 }
 .icon-menu-ntfc{
+    position: relative;
     width: 48px;
     height: 48px;
     margin-top: 2px;
@@ -224,6 +225,19 @@ form{
 .icon-menu-ntfc:hover{
     background-color: #ebebec;
     cursor: pointer;
+}
+.icon-button-notifications{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 2px;
+    right: 6px;
+    background: #e60023;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 12px;
 }
 .icon-message{
     width: 48px;
