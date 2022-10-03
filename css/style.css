@@ -86,8 +86,8 @@ header{
     height: 100%;
     margin-left: 3px;
 }
-::placeholder{
-    font-size: 1em;
+.glFyf::placeholder{
+    font-size: medium;
 }
 .o3j99{
     display: flex;
@@ -354,7 +354,7 @@ form{
 }
 .hover:hover{
     opacity: 1;
-    background: rgb(0,0,0,.3);
+    background: rgb(0,0,0,.2);
 }
 .button{
     position: absolute;
