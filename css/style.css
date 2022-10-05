@@ -228,16 +228,17 @@ form{
 }
 .icon-button-notifications{
     position: absolute;
-    width: 22px;
-    height: 22px;
+    width: 20px;
+    height: 20px;
     top: 2px;
-    right: 6px;
+    right: 1px;
     background: #e60023;
     overflow: hidden;
     text-align: center;
     border-radius: 50%;
     color: #fff;
-    font-size: 12px;
+    font-size: 11px;
+    line-height: 20px;
 }
 .icon-message{
     width: 48px;
